@@ -14,10 +14,10 @@ const Footer = () => {
                 <Link href={'https://wa.me/918955050001'}>
             <IoLogoWhatsapp className="text-5xl text-green-400"/>
                 </Link>
-                <Link href={'/'}>
+                <Link href={'https://www.instagram.com/aim_englishinstitute?igsh=eHlweWdsa29icDJv'}>
             <FaInstagram className="text-5xl text-pink-300"/>
                 </Link>
-                <Link href={'/'}>
+                <Link href={'https://m.facebook.com/Aiminstitute1jaipur/'}>
             <FaFacebook className="text-5xl text-blue-400"/>
                 </Link>
             </div>

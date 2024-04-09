@@ -51,7 +51,7 @@ export default function Home() {
   <Background />
   <Navbar />
   <Herosection />
-  <div className='grid grid-cols-1 md:grid-cols-2 gap-20 mt-10'>
+  <div className='grid grid-cols-1 md:grid-cols-3 md:gap-16 gap-20 mt-10'>
     {
       keyPointes && keyPointes.map((keyp,index)=>(
         <Keyfactors key={keyp.title} title={keyp.title} imgurl={keyp.imgUrl} keypoints={keyp.points}/>
